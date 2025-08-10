@@ -1,5 +1,5 @@
 /*Class:c867
-* Name: Emily Joseph
+
 * Date: 10/6/24
 */
 #include <iostream>
@@ -70,5 +70,6 @@ int main()
 
     classRoster->~Roster();
     delete classRoster;
+
 
 }
