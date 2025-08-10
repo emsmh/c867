@@ -1,5 +1,5 @@
 /*Class:c867
-* Name: Emily Joseph
+
 * Date: 10/6/24
 */
 #include <iostream>
@@ -176,5 +176,6 @@ void Student::print() {
 		<< "   Last Name: " << getLastName()
 		<< "   Age: " << getAge() << "  "
 		<< "Days in courses: {" << getDaysInCourse()[0] << " " << getDaysInCourse()[1] << " " << getDaysInCourse()[2] << "} Degree Program: " << degreeString << " " << endl;
+
 
 }
