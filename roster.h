@@ -1,5 +1,5 @@
 /*Class:c867
-* Name: Emily Joseph
+
 * Date: 10/6/24
 */
 #pragma once
@@ -41,3 +41,4 @@ public:
 };
 
 #endif
+
